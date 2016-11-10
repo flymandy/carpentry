@@ -1,0 +1,5 @@
+*.dat
+temp_data/this_should_be_ignores.txt
+temp_data/a.dat
+*.sqlite
+*.Rdata
